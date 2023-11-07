@@ -8,4 +8,4 @@
 뤼튼ai를 사용하여 제작하였습니다
 
 
-[20231107](https://yuls0202.github.io/bsks/index.html)
+[20231107](https://yuls0202.github.io/bsks/lgm1/index.html)
